@@ -1,6 +1,6 @@
 # focus_as_you_wish
 
-A new Flutter project.
+Developed a cross-platform AI-powered camera app using Flutter \& TensorFlow Lite (TFLite) for real-time object detection and automatic zoom adjustment.
 
 ## Getting Started
 
